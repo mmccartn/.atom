@@ -1,0 +1,45 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "e651cee4-a963-41cf-9f0a-adf54c01052b"
+  "autocomplete-plus": {}
+  "autocomplete-python":
+    useKite: false
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "auto-detect-indentation"
+      "linter"
+      "linter-csslint"
+      "word-jumper"
+    ]
+    packagesWithKeymapsDisabled: [
+      "word-jumper"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 18
+    invisibles: {}
+    scrollPastEnd: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "9bfd5568-4d9a-8bab-dad3-df161ba7c922"
+  "git-plus":
+    general:
+      _analyticsUserId: "530b2091-93c8-412b-a023-bcd8921e0097"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  pigments:
+    dismissableReloadNotifications: false
+    notifyReloads: false
+  welcome:
+    showOnStartup: false
+  "word-jumper": {}
+  "word-jumper-deluxe": {}
